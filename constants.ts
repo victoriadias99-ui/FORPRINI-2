@@ -31,10 +31,10 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Time is not a sequence of numbers, but a flow of moments. The FORPRINI Epoch rethinks the smartwatch interface, using a calm E-Ink hybrid display that mimics paper. It tracks stress through skin temperature and heart rate variability, gently vibrating to remind you to breathe. The ceramic casing is hypoallergenic and smooth, polished by hand for 48 hours.',
     price: 349,
     category: 'Wearable',
-    imageUrl: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F110b3b1bc911408882bf0b3f936f08ba?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=1000',
-        'https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F110b3b1bc911408882bf0b3f936f08ba?format=webp&width=800&height=1200',
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F110b3b1bc911408882bf0b3f936f08ba?format=webp&width=800&height=1200'
     ],
     features: ['Stress Monitoring', 'E-Ink Hybrid Display', '7-Day Battery']
   },
