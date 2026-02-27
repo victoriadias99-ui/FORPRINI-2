@@ -61,10 +61,10 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Clean air is the foundation of a clear mind. FORPRINI Essence uses a moss-based bio-filter combined with HEPA technology to scrub pollutants from your home. It gently diffuses natural essential oils—cedar, bergamot, and rain—orchestrated to match the time of day.',
     price: 599,
     category: 'Home',
-    imageUrl: 'https://images.pexels.com/photos/8092420/pexels-photo-8092420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Ffd8253b05031476781b5c6086788b1fb?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.pexels.com/photos/8092420/pexels-photo-8092420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Ffd8253b05031476781b5c6086788b1fb?format=webp&width=800&height=1200',
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Ffd8253b05031476781b5c6086788b1fb?format=webp&width=800&height=1200'
     ],
     features: ['Bio-HEPA Filter', 'Aromatherapy', 'Silent Night Mode']
   },
