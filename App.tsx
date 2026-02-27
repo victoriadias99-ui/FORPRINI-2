@@ -5,18 +5,18 @@
 
 
 import React, { useState } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import ProductGrid from './components/ProductGrid';
-import About from './components/About';
-import Journal from './components/Journal';
-import Assistant from './components/Assistant';
-import Footer from './components/Footer';
-import ProductDetail from './components/ProductDetail';
-import JournalDetail from './components/JournalDetail';
-import CartDrawer from './components/CartDrawer';
-import Checkout from './components/Checkout';
-import { ConfiguratorModal, ConfiguratorForm } from './components/Configurator';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import ProductGrid from './ProductGrid';
+import About from './About';
+import Journal from './Journal';
+import Assistant from './Assistant';
+import Footer from './Footer';
+import ProductDetail from './ProductDetail';
+import JournalDetail from './JournalDetail';
+import CartDrawer from './CartDrawer';
+import Checkout from './Checkout';
+import { ConfiguratorModal, ConfiguratorForm } from './Configurator';
 import { Product, JournalArticle, ViewState, ConfigData } from './types';
 
 function App() {
