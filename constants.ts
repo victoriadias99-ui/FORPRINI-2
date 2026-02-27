@@ -46,10 +46,10 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Screens shouldn\'t feel like looking into a lightbulb. FORPRINI Canvas uses a matte, nano-etched OLED panel that scatters ambient light, creating a display that looks and feels like high-quality magazine paper. Perfect for reading, sketching, or displaying art, it brings a tactile warmth to your digital life.',
     price: 1099,
     category: 'Mobile',
-    imageUrl: 'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb5ec66d8169a4a55b466373e20542a45?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=1000',
-        'https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb5ec66d8169a4a55b466373e20542a45?format=webp&width=800&height=1200',
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb5ec66d8169a4a55b466373e20542a45?format=webp&width=800&height=1200'
     ],
     features: ['Paper-like OLED', 'Portrait Lens', 'Sandstone Texture']
   },
