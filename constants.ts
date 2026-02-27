@@ -97,6 +97,20 @@ export const PRODUCTS: Product[] = [
         'https://images.unsplash.com/photo-1517260487576-8977430081d3?auto=format&fit=crop&q=80&w=1000'
     ],
     features: ['Zero Latency', 'Textured Tip', 'Wireless Charging']
+  },
+  {
+    id: 'p7',
+    name: 'Bolsa Stand-up pouch',
+    tagline: 'Storage that breathes.',
+    description: 'Bolsa Stand-up pouch',
+    longDescription: 'Bolsa Stand-up pouch',
+    price: 49,
+    category: 'Home',
+    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    gallery: [
+        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+    ],
+    features: ['Sustainable Packaging', 'Resealable Design', 'Minimal Aesthetic']
   }
 ];
 
