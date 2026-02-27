@@ -134,9 +134,9 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Caja madre',
     price: 59,
     category: 'Home',
-    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fc01c1a4fa0c84167bd60d18bf7aa2bab?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fc01c1a4fa0c84167bd60d18bf7aa2bab?format=webp&width=800&height=1200'
     ],
     features: ['Premium Packaging', 'Elegant Design', 'Protective']
   }
