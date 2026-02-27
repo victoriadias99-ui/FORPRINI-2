@@ -1,4 +1,3 @@
-
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
@@ -6,7 +5,7 @@
 
 
 import React from 'react';
-import { Product } from '../types';
+import { Product } from './types';
 
 interface CheckoutProps {
   items: Product[];

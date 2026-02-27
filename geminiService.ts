@@ -5,7 +5,7 @@
 
 
 import { GoogleGenAI } from "@google/genai";
-import { PRODUCTS } from '../constants';
+import { PRODUCTS } from './constants';
 
 const getSystemInstruction = () => {
   const productContext = PRODUCTS.map(p => 

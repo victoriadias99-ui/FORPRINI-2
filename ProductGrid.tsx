@@ -5,8 +5,8 @@
 
 
 import React, { useState, useMemo } from 'react';
-import { PRODUCTS } from '../constants';
-import { Product } from '../types';
+import { PRODUCTS } from './constants';
+import { Product } from './types';
 import ProductCard from './ProductCard';
 
 const categories = ['All', 'Audio', 'Wearable', 'Mobile', 'Home'];

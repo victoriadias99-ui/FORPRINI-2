@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Product, ConfigData } from '../types';
-import { PRODUCTS } from '../constants';
+import { Product, ConfigData } from './types';
+import { PRODUCTS } from './constants';
 
 interface ConfiguratorProps {
   isOpen: boolean;
