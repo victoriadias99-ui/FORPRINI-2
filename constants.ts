@@ -9,7 +9,7 @@ import { Product, JournalArticle } from './types';
 export const PRODUCTS: Product[] = [
   {
     id: 'p1',
-    name: 'FORPRINI Harmony',
+    name: 'Bolsa Stand-up pouch',
     tagline: 'Listen naturally.',
     description: 'Audio that feels like the open air. Constructed with warm acoustic fabric and recycled sandstone composite.',
     longDescription: 'Experience sound as it was meant to be heard—unconfined and organic. The FORPRINI Harmony headphones feature our proprietary open-air driver technology, encased in a breathable acoustic fabric that adapts to your temperature. The headband is crafted from a recycled sandstone composite, offering a unique, cool-to-the-touch texture that grounds you in the present moment.',
