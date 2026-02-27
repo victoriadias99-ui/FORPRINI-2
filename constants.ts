@@ -15,11 +15,11 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Experience sound as it was meant to be heard—unconfined and organic. The FORPRINI Harmony headphones feature our proprietary open-air driver technology, encased in a breathable acoustic fabric that adapts to your temperature. The headband is crafted from a recycled sandstone composite, offering a unique, cool-to-the-touch texture that grounds you in the present moment.',
     price: 429,
     category: 'Audio',
-    imageUrl: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fd7d2263983114c60ad8ea2886d7d2126?format=webp&width=800&height=1200',
     gallery: [
-      'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1000',
-      'https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&q=80&w=1000',
-      'https://images.unsplash.com/photo-1524678606372-565ae0f98944?auto=format&fit=crop&q=80&w=1000'
+      'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fd7d2263983114c60ad8ea2886d7d2126?format=webp&width=800&height=1200',
+      'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fd7d2263983114c60ad8ea2886d7d2126?format=webp&width=800&height=1200',
+      'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fd7d2263983114c60ad8ea2886d7d2126?format=webp&width=800&height=1200'
     ],
     features: ['Organic Noise Cancellation', '50h Battery', 'Natural Soundstage']
   },
