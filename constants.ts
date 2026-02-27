@@ -120,9 +120,9 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Pouch flexible',
     price: 39,
     category: 'Home',
-    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F5bf5a2ead63148d8a2d089711e4bf4f8?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F5bf5a2ead63148d8a2d089711e4bf4f8?format=webp&width=800&height=1200'
     ],
     features: ['Flexible Design', 'Durable', 'Minimal Aesthetic']
   },
