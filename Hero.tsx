@@ -39,10 +39,10 @@ const Hero: React.FC<HeroProps> = ({ onConfigurar }) => {
       
       {/* Background Image - Serene Nature */}
       <div className="absolute inset-0 w-full h-full">
-        <img 
-            src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=2000" 
-            alt="Serene misty landscape" 
-            className="w-full h-full object-cover grayscale contrast-[0.7] brightness-[0.95] animate-[pulse_15s_ease-in-out_infinite_alternate]"
+        <img
+            src="https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F1fe5f508e8bf4669b1abebdf260270e7?format=webp&width=800&height=1200"
+            alt="FORPRINI product collection display"
+            className="w-full h-full object-cover"
         />
         {/* Warmer Brown Overlay for Richness */}
         <div className="absolute inset-0 bg-[#433E38]/40 mix-blend-multiply"></div>
