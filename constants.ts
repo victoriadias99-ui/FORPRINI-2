@@ -91,10 +91,10 @@ export const PRODUCTS: Product[] = [
     longDescription: 'The connection between hand and brain is sacred. FORPRINI Scribe features a custom elastomer tip that replicates the microscopic friction of graphite on paper. Weighted perfectly for balance, it disappears in your hand, leaving only your thoughts.',
     price: 129,
     category: 'Mobile',
-    imageUrl: 'https://images.pexels.com/photos/2647376/pexels-photo-2647376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F5212bb192d024b0b97b11283be97ef02?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.pexels.com/photos/2647376/pexels-photo-2647376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        'https://images.unsplash.com/photo-1517260487576-8977430081d3?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F5212bb192d024b0b97b11283be97ef02?format=webp&width=800&height=1200',
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F5212bb192d024b0b97b11283be97ef02?format=webp&width=800&height=1200'
     ],
     features: ['Zero Latency', 'Textured Tip', 'Wireless Charging']
   },
