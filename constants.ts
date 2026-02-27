@@ -25,7 +25,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p2',
-    name: 'FORPRINI Epoch',
+    name: 'Frasco con tapa',
     tagline: 'Moments, not minutes.',
     description: 'A timepiece designed for wellness. Ceramic casing with a strap made from sustainable vegan leather.',
     longDescription: 'Time is not a sequence of numbers, but a flow of moments. The FORPRINI Epoch rethinks the smartwatch interface, using a calm E-Ink hybrid display that mimics paper. It tracks stress through skin temperature and heart rate variability, gently vibrating to remind you to breathe. The ceramic casing is hypoallergenic and smooth, polished by hand for 48 hours.',
@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p3',
-    name: 'FORPRINI Canvas',
+    name: 'Tubo cosmético',
     tagline: 'Capture the warmth.',
     description: 'A display that mimics the properties of paper. Soft on the eyes, vivid in color, and textured to the touch.',
     longDescription: 'Screens shouldn\'t feel like looking into a lightbulb. FORPRINI Canvas uses a matte, nano-etched OLED panel that scatters ambient light, creating a display that looks and feels like high-quality magazine paper. Perfect for reading, sketching, or displaying art, it brings a tactile warmth to your digital life.',
@@ -55,7 +55,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p4',
-    name: 'FORPRINI Essence',
+    name: 'Gotero',
     tagline: 'Return to nature.',
     description: 'An air purifier that doubles as a sculpture. Whisper quiet, diffusing subtle natural scents while cleaning your space.',
     longDescription: 'Clean air is the foundation of a clear mind. FORPRINI Essence uses a moss-based bio-filter combined with HEPA technology to scrub pollutants from your home. It gently diffuses natural essential oils—cedar, bergamot, and rain—orchestrated to match the time of day.',
@@ -70,7 +70,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p5',
-    name: 'FORPRINI Beam',
+    name: 'Doypack o refill',
     tagline: 'Light that breathes.',
     description: 'Smart circadian lighting that follows the sun. Casts a warm, candle-like glow in the evenings.',
     longDescription: 'Artificial light disrupts our natural rhythms. FORPRINI Beam syncs with your local sunrise and sunset, providing cool, energizing light during the day and transitioning to a warm, amber glow free of blue light in the evening. Controls are touchless; a simple wave of the hand adjusts brightness.',
@@ -85,7 +85,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p6',
-    name: 'FORPRINI Scribe',
+    name: 'Pack colgante',
     tagline: 'Thought in motion.',
     description: 'A digital stylus with the friction of graphite. Charges wirelessly when magnetically attached to FORPRINI Canvas.',
     longDescription: 'The connection between hand and brain is sacred. FORPRINI Scribe features a custom elastomer tip that replicates the microscopic friction of graphite on paper. Weighted perfectly for balance, it disappears in your hand, leaving only your thoughts.',
@@ -100,10 +100,10 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'p7',
-    name: 'Bolsa Stand-up pouch',
+    name: 'Tarro redondo',
     tagline: 'Storage that breathes.',
-    description: 'Bolsa Stand-up pouch',
-    longDescription: 'Bolsa Stand-up pouch',
+    description: 'Tarro redondo',
+    longDescription: 'Tarro redondo',
     price: 49,
     category: 'Home',
     imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
@@ -111,6 +111,34 @@ export const PRODUCTS: Product[] = [
         'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
     ],
     features: ['Sustainable Packaging', 'Resealable Design', 'Minimal Aesthetic']
+  },
+  {
+    id: 'p8',
+    name: 'Pouch flexible',
+    tagline: 'Flexible storage.',
+    description: 'Pouch flexible',
+    longDescription: 'Pouch flexible',
+    price: 39,
+    category: 'Home',
+    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    gallery: [
+        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+    ],
+    features: ['Flexible Design', 'Durable', 'Minimal Aesthetic']
+  },
+  {
+    id: 'p9',
+    name: 'Caja madre',
+    tagline: 'Premium packaging.',
+    description: 'Caja madre',
+    longDescription: 'Caja madre',
+    price: 59,
+    category: 'Home',
+    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    gallery: [
+        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+    ],
+    features: ['Premium Packaging', 'Elegant Design', 'Protective']
   }
 ];
 
