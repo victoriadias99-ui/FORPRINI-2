@@ -106,9 +106,9 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Tarro redondo',
     price: 49,
     category: 'Home',
-    imageUrl: 'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F7d38d5dd62a341d8847db771a735bf7d?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1599599810694-b6b0b2e29ac1?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2F7d38d5dd62a341d8847db771a735bf7d?format=webp&width=800&height=1200'
     ],
     features: ['Sustainable Packaging', 'Resealable Design', 'Minimal Aesthetic']
   },
