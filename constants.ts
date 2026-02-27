@@ -76,10 +76,10 @@ export const PRODUCTS: Product[] = [
     longDescription: 'Artificial light disrupts our natural rhythms. FORPRINI Beam syncs with your local sunrise and sunset, providing cool, energizing light during the day and transitioning to a warm, amber glow free of blue light in the evening. Controls are touchless; a simple wave of the hand adjusts brightness.',
     price: 249,
     category: 'Home',
-    imageUrl: 'https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?auto=format&fit=crop&q=80&w=1000',
+    imageUrl: 'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb496fa9201864bee87869294db491071?format=webp&width=800&height=1200',
     gallery: [
-        'https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?auto=format&fit=crop&q=80&w=1000',
-        'https://images.unsplash.com/photo-1540932296235-d84931b6370b?auto=format&fit=crop&q=80&w=1000'
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb496fa9201864bee87869294db491071?format=webp&width=800&height=1200',
+        'https://cdn.builder.io/api/v1/image/assets%2Fd8691aee55594e349db50ce8bae298ba%2Fb496fa9201864bee87869294db491071?format=webp&width=800&height=1200'
     ],
     features: ['Circadian Rhythm Sync', 'Warm Dimming', 'Touchless Control']
   },
